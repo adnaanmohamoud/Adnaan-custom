@@ -1,0 +1,24 @@
+{
+  "name": "adnaan-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnaanmohamoud/Adnaan-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adnaanmohamoud/Adnaan-custom/issues"
+  },
+  "homepage": "https://github.com/adnaanmohamoud/Adnaan-custom#readme",
+  "dependencies": {
+    "@actions/core": "^2.0.1"
+  }
+}
